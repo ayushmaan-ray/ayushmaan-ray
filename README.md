@@ -128,8 +128,6 @@ I'm a **final-year Computer Science student** at **VIT Bhopal** with a passion f
   ![Ayushman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushmaan-ray&show_icons=true&theme=radical&hide_border=true)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmaan-ray&layout=compact&theme=radical&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushmaan-ray&theme=radical&hide_border=true)
 
 </div>
 
@@ -143,7 +141,7 @@ I'm a **final-year Computer Science student** at **VIT Bhopal** with a passion f
 - 🤖 AI/ML in Cybersecurity & Threat Detection
 - 🛡️ Advanced SIEM Operations & Threat Hunting
 - 📱 Mobile Application Security Testing
-
+  
 ---
 
 ## 📫 Let's Connect!
@@ -161,8 +159,6 @@ I'm a **final-year Computer Science student** at **VIT Bhopal** with a passion f
 <div align="center">
   
 ### 💡 *"Security is not a product, but a process."* - Bruce Schneier
-
-![Visitor Count](https://profile-counter.glitch.me/ayushmaan-ray/count.svg)
 
 ⭐️ From [ayushmaan-ray](https://github.com/ayushmaan-ray) | Open to **Penetration Testing, SOC Analyst & Security Engineering** opportunities
 
