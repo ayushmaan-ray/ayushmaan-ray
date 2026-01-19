@@ -137,10 +137,12 @@ I'm a **final-year Computer Science student** at **VIT Bhopal** with a passion f
 
 ## 🎯 Currently Learning
 
-- 🔴 Advanced Red Team Techniques
-- 🕸️ Web Application Exploitation
-- 🔐 Cloud Security (AWS, Azure)
-- 🤖 AI/ML in Cybersecurity
+- 🔴 Advanced Red Team Techniques & TTPs
+- 🕸️ Web Application Exploitation (OWASP Top 10)
+- 🔐 Cloud Security (AWS, Azure Pentesting)
+- 🤖 AI/ML in Cybersecurity & Threat Detection
+- 🛡️ Advanced SIEM Operations & Threat Hunting
+- 📱 Mobile Application Security Testing
 
 ---
 
