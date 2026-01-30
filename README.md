@@ -76,20 +76,20 @@ I'm a **final-year Computer Science student** at **VIT Bhopal** with a passion f
 
 ## 💼 Professional Experience
 
-### 🔐 Cyber Security & Ethical Hacking Intern | SparkIIT
-*Dec 2025 - Jan 2026*
-
-- Conducted VAPT audits identifying **SQL Injection, XSS** with CVSS-scored remediation
-- Performed digital forensics recovering **3,281 deleted files** from 40GB disk image
-- Engineered phishing simulation with **66% click rate** using GoPhish
-- Mobile security analysis mapping vulnerabilities to **OWASP Mobile Top 10**
-
 ### 💻 Backend Development Intern | Staychat AI
 *Nov 2025 - Present*
 
 - Building WhatsApp Business API integration with FastAPI & Meta webhooks
 - Implementing hybrid AI system (Dialogflow + Gemini API)
 - Developing secure webhook endpoints for production deployment
+
+### 🔐 Cyber Security & Ethical Hacking Intern | SparkIIT
+*Oct 2025 - Jan 2026*
+
+- Conducted VAPT audits identifying **SQL Injection, XSS** with CVSS-scored remediation
+- Performed digital forensics recovering **3,281 deleted files** from 40GB disk image
+- Engineered phishing simulation with **66% click rate** using GoPhish
+- Mobile security analysis mapping vulnerabilities to **OWASP Mobile Top 10**
 
 ### ⚙️ Software Intern | Tonbo Imaging
 *Nov 2024 - Jan 2025*
