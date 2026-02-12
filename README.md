@@ -119,19 +119,6 @@ I'm a **final-year Computer Science student** at **VIT Bhopal** with a passion f
 👨‍🏫 **Technical Lead** - GSoC Innovators Club @ VIT Bhopal (Jan 2025 - July 2025)
 - Spearheaded 'Summer of CodeFest 25' for **100+ participants**
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![Ayushman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushmaan-ray&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmaan-ray&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 🎯 Currently Learning
 
