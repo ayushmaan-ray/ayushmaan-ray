@@ -64,13 +64,14 @@ I'm a **final-year Computer Science student** at **VIT Bhopal** with a passion f
 - 📊 Simulates enterprise-grade dictionary attack defenses
 - **Tech**: Python, Cryptography, Hash Analysis, Security Testing
 
-### 📊 [System Monitor Pro - Real-Time Linux Dashboard](https://github.com/ayushmaan-ray/system-monitor-pro)
-> Full-stack monitoring tool for system health tracking
+### 🛡️ [Security Monitor Pro — Host-Based Threat Detection Dashboard](https://github.com/ayushmaan-ray/Security-Monitor-Pro)
+> SOC-style security monitoring tool with real-time process analysis and alerting
 
-- 📈 Asynchronous metric collection (CPU, RAM, Thermal)
-- 🎨 Flask-based REST API with Chart.js visualization
-- 🔄 Automated log rotation and error handling
-- **Tech**: Python, Flask, FastAPI, Linux, Chart.js
+- 🔍 Suspicious process & behavioral detection (reverse shells, miners, RATs)
+- 📊 Live CPU/RAM/GPU metrics with SOC-style web dashboard
+- ⚠️ Multi-severity alert engine (CRITICAL / WARNING / INFO)
+- 🔄 Automated log rotation and config-driven thresholds
+- **Tech**: Python · Flask · psutil · Chart.js · Linux · Windows
 
 ---
 
