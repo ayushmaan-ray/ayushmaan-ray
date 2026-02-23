@@ -73,6 +73,14 @@ I'm a **final-year Computer Science student** at **VIT Bhopal** with a passion f
 - 🔄 Automated log rotation and config-driven thresholds
 - **Tech**: Python · Flask · psutil · Chart.js · Linux · Windows
 
+### 🔬 [DFIR Automated Forensic Artifact Collector](https://github.com/ayushmaan-ray/DFIR-Automated-Forensic-Artifact-Collector)
+> Live forensic investigation tool for Linux incident response
+
+- 🕵️ Collects 6 artifact categories: users, processes, network, filesystem, logs
+- 🚨 Suspicious process detection, brute-force identification, SUID enumeration  
+- 🔑 SSH backdoor key detection & deleted-executable malware technique
+- 📄 Dual output: structured JSON + human-readable TXT reports
+- **Tech:** Python · Linux · DFIR · Incident Response
 ---
 
 ## 💼 Professional Experience
