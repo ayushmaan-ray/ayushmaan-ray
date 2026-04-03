@@ -97,7 +97,7 @@ I'm a **final-year Computer Science student** at **VIT Bhopal** with a passion f
 ## 💼 Professional Experience
 
 ### 💻 Backend Development Intern | Staychat AI
-*Nov 2025 - Present*
+*Nov 2025 - March 2026*
 
 - Building WhatsApp Business API integration with FastAPI & Meta webhooks
 - Implementing hybrid AI system (Dialogflow + Gemini API)
