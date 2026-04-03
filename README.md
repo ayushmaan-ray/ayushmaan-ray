@@ -77,10 +77,21 @@ I'm a **final-year Computer Science student** at **VIT Bhopal** with a passion f
 > Live forensic investigation tool for Linux incident response
 
 - 🕵️ Collects 6 artifact categories: users, processes, network, filesystem, logs
-- 🚨 Suspicious process detection, brute-force identification, SUID enumeration  
+- 🚨 Suspicious process detection, brute-force identification, SUID enumeration
 - 🔑 SSH backdoor key detection & deleted-executable malware technique
 - 📄 Dual output: structured JSON + human-readable TXT reports
 - **Tech:** Python · Linux · DFIR · Incident Response
+
+### 🔴 [PhantomRed — Red Team C2 + Persistence Simulator](https://github.com/ayushmaan-ray/PhantomRed)
+> Python-based Command & Control framework simulating real-world Red Team attack techniques in a controlled lab environment
+
+- 📡 Reverse TCP socket-based C2 channel with automatic system recon on agent connect
+- ⚙️ Remote command execution with real-time output capture on target systems
+- 🔁 Cron-based persistence (@reboot) with agent retry loop for offline server resilience
+- 🗂️ Auto-timestamped session logging — mirrors real Red Team operator tradecraft
+- 🎯 Maps to MITRE ATT&CK: T1053 (Scheduled Task) · T1059 (Command Execution)
+- **Tech:** Python · Linux · Socket Programming · Red Team · MITRE ATT&CK
+
 ---
 
 ## 💼 Professional Experience
