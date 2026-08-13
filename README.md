@@ -8,13 +8,13 @@
 
 ## 🔐 About Me
 
-I'm a **Computer Science student** at **VIT Bhopal** with a passion for **offensive security** and **vulnerability research**. I love breaking things to understand how they work and building tools to make security testing more efficient.
+I'm a **Computer Science Graduate** from **VIT Bhopal** with a passion for **offensive security**, **vulnerability research**, and **enterprise defense**. I love breaking things to understand how they work and building tools to make security testing more efficient.
 
 - 🎯 **Focus Areas**: Penetration Testing, VAPT, Digital Forensics, Threat Analysis
-- 🛠️ **Currently Building**: WhatsApp Business API integration with AI-powered workflows @ Staychat AI
-- 🚩 **CTF Player**: HackQuest Season 10 - Secured 600+ points in Crypto, Forensics & Reverse Engineering
+- 🚩 **CTF Player**: Active CTF Player | HackQuest Season 10 (Secured 600+ points in Crypto, Forensics & RE)
+- 💻 **Online Labs**: Active practitioner on **TryHackMe** and **OverTheWire (Bandit)**
 - 📜 **Certified**: Splunk User (Log Analysis & SIEM Operations)
-- 🔬 **Recent Work**: Conducted VAPT audits, digital forensics on 40GB disk images, mobile security assessments
+- 🔬 **Recent Work**: Conducted VAPT audits, digital forensics, enterprise security reviews, and mobile security assessments
 
 ---
 
@@ -41,8 +41,9 @@ I'm a **Computer Science student** at **VIT Bhopal** with a passion for **offens
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### SIEM & Log Analysis
+### SIEM & Enterprise Security
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Sophos](https://img.shields.io/badge/Sophos-005A9C?style=for-the-badge&logo=sophos&logoColor=white)
 
 ---
 
@@ -99,9 +100,9 @@ I'm a **Computer Science student** at **VIT Bhopal** with a passion for **offens
 ### 💻 Backend Development Intern | Staychat AI
 *Nov 2025 - March 2026*
 
-- Building WhatsApp Business API integration with FastAPI & Meta webhooks
-- Implementing hybrid AI system (Dialogflow + Gemini API)
-- Developing secure webhook endpoints for production deployment
+- Developed and integrated WhatsApp Business API using FastAPI & Meta webhooks
+- Implemented hybrid AI workflows combining Dialogflow & Google Gemini API
+- Engineered secure webhook endpoints for high-throughput production workloads
 
 ### 🔐 Cyber Security & Ethical Hacking Intern | SparkIIT
 *Oct 2025 - Jan 2026*
@@ -132,6 +133,11 @@ I'm a **Computer Science student** at **VIT Bhopal** with a passion for **offens
 
 📜 **Splunk Certified User** - December 2025
 - Intro to Splunk & Using Fields
+
+🚩 **Active Labs & CTF Practice**
+- **TryHackMe**: Hands-on experience with Windows/Linux privilege escalation, Active Directory fundamentals, and EternalBlue (MS17-010) exploit simulations.
+- **OverTheWire**: Solved Bandit challenges focusing on Linux CLI tools, permissions, file parsing, and basic shell scripting.
+- **Active CTF Participant**: Exploiting vulnerabilities in Jeopardy-style CTFs including Server-Side Template Injection (SSTI), JWT manipulation, and mobile reverse engineering.
 
 👨‍💼 **Technical Secretary** - Student Council @ VIT Bhopal (Aug 2024 - Aug 2025)
 - Managed **40+ technical clubs** and coordinated AdVITya 2025 fest
