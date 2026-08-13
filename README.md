@@ -8,7 +8,7 @@
 
 ## 🔐 About Me
 
-I'm a **final-year Computer Science student** at **VIT Bhopal** with a passion for **offensive security** and **vulnerability research**. I love breaking things to understand how they work and building tools to make security testing more efficient.
+I'm a **Computer Science student** at **VIT Bhopal** with a passion for **offensive security** and **vulnerability research**. I love breaking things to understand how they work and building tools to make security testing more efficient.
 
 - 🎯 **Focus Areas**: Penetration Testing, VAPT, Digital Forensics, Threat Analysis
 - 🛠️ **Currently Building**: WhatsApp Business API integration with AI-powered workflows @ Staychat AI
@@ -48,22 +48,6 @@ I'm a **final-year Computer Science student** at **VIT Bhopal** with a passion f
 
 ## 🚀 Featured Projects
 
-### 🔍 [NetProbe - Multi-Threaded Vulnerability Scanner](https://github.com/ayushmaan-ray/NetProbe)
-> Concurrent port scanner with automated CVE detection
-
-- 🎯 Socket-level banner grabbing for service fingerprinting
-- 🔄 Multi-threaded architecture for rapid scanning
-- 🔐 CVE database cross-referencing for vulnerability detection
-- **Tech**: Python, Threading, Socket Programming, Network Security
-
-### 🔓 [PyCrack - Network-Enabled Hash Auditing Tool](https://github.com/ayushmaan-ray/PyCrack)
-> Password security auditor with 5M+ credential analysis
-
-- 🌐 Streams credentials from SecLists via HTTP
-- 🔒 Real-time Salted SHA-256 hash analysis
-- 📊 Simulates enterprise-grade dictionary attack defenses
-- **Tech**: Python, Cryptography, Hash Analysis, Security Testing
-
 ### 🛡️ [Security Monitor Pro — Host-Based Threat Detection Dashboard](https://github.com/ayushmaan-ray/Security-Monitor-Pro)
 > SOC-style security monitoring tool with real-time process analysis and alerting
 
@@ -91,6 +75,22 @@ I'm a **final-year Computer Science student** at **VIT Bhopal** with a passion f
 - 🗂️ Auto-timestamped session logging — mirrors real Red Team operator tradecraft
 - 🎯 Maps to MITRE ATT&CK: T1053 (Scheduled Task) · T1059 (Command Execution)
 - **Tech:** Python · Linux · Socket Programming · Red Team · MITRE ATT&CK
+
+### 🔍 [NetProbe - Multi-Threaded Vulnerability Scanner](https://github.com/ayushmaan-ray/NetProbe)
+> Concurrent port scanner with automated CVE detection
+
+- 🎯 Socket-level banner grabbing for service fingerprinting
+- 🔄 Multi-threaded architecture for rapid scanning
+- 🔐 CVE database cross-referencing for vulnerability detection
+- **Tech**: Python, Threading, Socket Programming, Network Security
+
+### 🔓 [PyCrack - Network-Enabled Hash Auditing Tool](https://github.com/ayushmaan-ray/PyCrack)
+> Password security auditor with 5M+ credential analysis
+
+- 🌐 Streams credentials from SecLists via HTTP
+- 🔒 Real-time Salted SHA-256 hash analysis
+- 📊 Simulates enterprise-grade dictionary attack defenses
+- **Tech**: Python, Cryptography, Hash Analysis, Security Testing
 
 ---
 
@@ -156,8 +156,6 @@ I'm a **final-year Computer Science student** at **VIT Bhopal** with a passion f
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushman-ray-16b265251/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushman05.ray@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushmaan-ray)
 
 </div>
 
@@ -167,6 +165,6 @@ I'm a **final-year Computer Science student** at **VIT Bhopal** with a passion f
   
 ### 💡 *"Security is not a product, but a process."* - Bruce Schneier
 
-⭐️ From [ayushmaan-ray](https://github.com/ayushmaan-ray) | Open to **Penetration Testing, SOC Analyst & Security Engineering** opportunities
+⭐️Open to **Penetration Testing, SOC Analyst & Security Engineering** opportunities
 
 </div>
